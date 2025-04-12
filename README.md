@@ -1,9 +1,14 @@
-## Bem-vindo(a) ao perfil do Luiz Felipe 
- 
-  ### Redes Sociais Abaixo!
- 
-<div> 
-  <a href="https://instagram.com/felipe.smx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-felipe-melo8713" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<h1>Hi There! 👋</h1>
 
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-felipe-melo8713/)](https://www.linkedin.com/in/luiz-felipe-melo8713/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-6633cc?style=fçat-squarre&logo=instagram&logoColor=white&link=https://www.instagram.com/felipe.smx/)](https://www.instagram.com/felipe.smx/)
+
+
+## My name is Luiz Felipe Melo
+
+
+<div align="left">
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernanda-Kipper&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  
+ </div>
