@@ -1,13 +1,4 @@
 ## Bem-vindo(a) ao perfil do Luiz Felipe 
-
- <div>
-   <a href="https://github.com/luizmelo1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmelo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmelo1&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
- 
- <br>
  
   ### Redes Sociais Abaixo!
  
